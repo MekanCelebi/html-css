@@ -1,0 +1,34 @@
+nav {
+    text-align: center;
+    color: rgb(196, 154, 102);
+    align-items: center;
+    height: 200;
+    display:block;
+    padding:8px;
+    margin: 20px;;
+}
+body {
+    background-color: beige;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+p {
+    text-align: center;
+}
+div.container {
+    text-align: center;
+}
+ul.Myul {
+    display: inline-block;
+    text-align: left;
+}
+h2{
+    text-align: center;
+    color:aquamarine;
+}
+ol.Myol{
+    display:inline-block;
+    
+}
